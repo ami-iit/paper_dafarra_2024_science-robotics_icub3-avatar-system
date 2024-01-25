@@ -20,7 +20,7 @@ https://github.com/ami-iit/paper_dafarra_2024_science-robotics_icub3-avatar-syst
 </div>
  
 <div align="center">
-  <a href=""><b>Science Robotics</b></a> | <!-- TODO: Add link -->
+  <a href="https://www.science.org/doi/10.1126/scirobotics.adh3834"><b>Science Robotics</b></a> | <!-- TODO: Add link -->
   <a href="https://arxiv.org/abs/2203.06972"><b>arXiv</b></a> |
   <a href="https://youtu.be/z0aoTzdx25Y"><b>YouTube</b></a>
 </div>
@@ -64,15 +64,17 @@ It is possible to generate the paper's figures by running [this MATLAB script](h
 If you find the work useful, please consider citing:
 
 ```bib
-@ARTICLE{dafarra2024icub3,
-  author={Dafarra, Stefano and Pattacini, Ugo and Romualdi, Giulio and Rapetti, Lorenzo and Grieco, Riccardo and Darvish, Kourosh and Milani, Gianluca and Valli, Enrico and Sorrentino, Ines and Viceconte, Paolo Maria and Scalzo, Alessandro and Traversaro, Silvio and Sartore, Carlotta and Elobaid, Mohamed and Guedelha, Nuno and Herron, Connor and Leonessa, Alexander and Draicchio, Francesco and Metta, Giorgio and Maggiali, Marco and Pucci, Daniele},
-  journal={Science Robotics}, 
-  title={iCub3 Avatar System: Enabling Remote Fully-Immersive Embodiment of Humanoid Robots}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={},
-  doi={10.1126/scirobotics.adh3834}}
+@article{dafarra2024icub3,
+author = {Stefano Dafarra  and Ugo Pattacini  and Giulio Romualdi  and Lorenzo Rapetti  and Riccardo Grieco  and Kourosh Darvish  and Gianluca Milani  and Enrico Valli  and Ines Sorrentino  and Paolo Maria Viceconte  and Alessandro Scalzo  and Silvio Traversaro  and Carlotta Sartore  and Mohamed Elobaid  and Nuno Guedelha  and Connor Herron  and Alexander Leonessa  and Francesco Draicchio  and Giorgio Metta  and Marco Maggiali  and Daniele Pucci },
+title = {iCub3 avatar system: Enabling remote fully immersive embodiment of humanoid robots},
+journal = {Science Robotics},
+volume = {9},
+number = {86},
+pages = {eadh3834},
+year = {2024},
+doi = {10.1126/scirobotics.adh3834},
+URL = {https://www.science.org/doi/abs/10.1126/scirobotics.adh3834},
+eprint = {https://www.science.org/doi/pdf/10.1126/scirobotics.adh3834}}
 ```
 
 
